@@ -1,0 +1,131 @@
+{
+    "data": [{
+            "_id": 1,
+            "name": "Los Botones Azules",
+            "album": "Mi vida en un cigarro 2",
+            "cover": "https://_i1.sndcdn.com/artworks-0jtxBb8iPsRS-0-t500x500.jpg",
+            "artist": {
+                "name": "Junior H",
+                "nickname": "Junior H",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 2,
+            "name": "Normal",
+            "album": "Feliz Cumpleaños Ferxxo",
+            "cover": "https://images.genius.com/4d31ad179cd2b577f133cbb0287af431.300x300x1.png",
+            "artist": {
+                "name": "Feid",
+                "nickname": "Feid",
+                "nationality": "CO"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-1.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "La inocente FT. Feid",
+            "album": "Microdosis",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/8e/41/85/8e418597-e72f-9998-a0d1-1cd40f55d6e9/196626706898.jpg/1200x1200bf-60.jpg",
+            "artist": {
+                "name": "Mora",
+                "nickname": "Mora",
+                "nationality": "PR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-2.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "El Hijo Mayor",
+            "album": "El Hijo Mayor",
+            "cover": "https://latinosunidosonline.com/wp-content/uploads/2022/05/x-67.jpg",
+            "artist": {
+                "name": "Junior H",
+                "nickname": "Junior H",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-4.mp3"
+        },
+        {
+            "_id": 5,
+            "name": "Nataaoki",
+            "album": "Nata Kong",
+            "cover": "https://i.scdn.co/image/ab67616d0000b273e86670a75a657f1c7b492a9f",
+            "artist": {
+                "name": "Natanael Cano",
+                "nickname": "Natanael Cano",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-3.mp3"
+        },
+        {
+            "_id": 6,
+            "name": "Brillo",
+            "album": "Nata Kong",
+            "cover": "https://i.scdn.co/image/ab67616d0000b273e86670a75a657f1c7b492a9f",
+            "artist": {
+                "name": "Natanael Cano",
+                "nickname": "Natanael Cano",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-5.mp3"
+        },
+        {
+            "_id": 7,
+            "name": "La canción",
+            "album": "Oasis",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/7/7f/J_Balvin_and_Bad_Bunny_-_Oasis.png",
+            "artist": {
+                "name": "Bad Bunny",
+                "nickname": "Bad Bunny",
+                "nationality": "PR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-6.mp3"
+        },
+        {
+            "_id": 8,
+            "name": "Volando Remix",
+            "album": "Volando Remix",
+            "cover": "https://m.media-amazon.com/images/I/51HHof4ahVS._UXNaN_FMjpg_QL85_.jpg",
+            "artist": {
+                "name": "Bad Bunny",
+                "nickname": "Bad Bunny",
+                "nationality": "PR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-7.mp3"
+        }
+    ]
+}
